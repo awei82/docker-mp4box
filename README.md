@@ -1,9 +1,9 @@
 # Docker-MP4Box
 
-http://gpac.io/mp4box/
+https://github.com/gpac/gpac/wiki/MP4Box
 
 ```
-MP4Box - GPAC version 0.6.1-rev14-g8eb0297-master
+MP4Box - GPAC version 1.0.0-latest-master_amd64
 ```
 
 ## Example
